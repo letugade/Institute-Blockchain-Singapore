@@ -1,2 +1,2 @@
 # IBS-Courses
-Resources and Project from Ethereum Pet Shop Project
+Resources and Projects from International Blockchain Institute of Singapore
