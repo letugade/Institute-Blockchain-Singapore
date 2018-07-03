@@ -1,2 +1,2 @@
-# International Blockchain Institute Singapore
-Resources and Projects from International Blockchain Institute Singapore
+# Institute of Blockchain Singapore
+Resources and Projects from Institute of Blockchain Singapore
